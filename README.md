@@ -1,7 +1,7 @@
 Oii! Eu sou o Kaik Silva 😉! 
 
 - 🐱‍👤 Hoje trabalhando Full stack developer (back-end e front-end) 
-- 📚 Atualmente estudando o Framework Laravel
+- 📚 Atualmente estudando o FrameWork Javascript Vue 
 - 🪂 Contate-me no e-mail : kaiksilvacontato7@gmail.com
 
 <div>
