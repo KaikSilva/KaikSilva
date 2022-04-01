@@ -15,7 +15,6 @@ Oii! Eu sou o Kaik Silva 😉!
   <img align="center" alt="Kaik-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Kaik-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Kaik-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Kaik-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 
    
   <img align="right" alt="KAIKssILVA" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
