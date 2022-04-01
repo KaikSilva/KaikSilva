@@ -7,6 +7,7 @@ Oii! Eu sou o Kaik Silva 😉!
 <div>
   <a href="https://github.com/KaikSilva">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaikSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
   
  <div style="display: inline_block"><br>
