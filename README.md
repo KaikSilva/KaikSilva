@@ -1,7 +1,7 @@
 Oii! Eu sou o Kaik Silva 😉! 
 
 - 🐱‍👤 Hoje trabalhando Full stack developer
-- 📚 Atualmente me aprofundando na linguagem PHP 
+- 📚 Atualmente me aprofundando na React com Typescript
 - 🪂 Contate-me no e-mail : kaikrochaa0@gmail.com
 
 <div>
@@ -16,6 +16,7 @@ Oii! Eu sou o Kaik Silva 😉!
   <img align="center" alt="Kaik-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Kaik-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" alt="Kaik-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Kaik-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
    
   <img align="right" alt="KAIKssILVA" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif">
