@@ -1,7 +1,7 @@
 Oii! Eu sou o Kaik Silva 😉! 
 
 - 🐱‍👤 Atualmente trabalhando Full stack developer
-- 📚 Me aprofundando na biblioteca React com Typescript e Python
+- 📚 Me aprofundando no universo Javascript
 - 🪂 Contate-me no e-mail : kaikrochaa0@gmail.com
 
 <div>
@@ -16,7 +16,6 @@ Oii! Eu sou o Kaik Silva 😉!
   <img align="center" alt="Kaik-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Kaik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaik-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Kaik-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Kaik-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
    
