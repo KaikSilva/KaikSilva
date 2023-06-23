@@ -1,7 +1,7 @@
 Oii! Eu sou o Kaik Silva 😉! 
 
-- 🐱‍👤 Atualmente trabalhando Full stack developer
-- 📚 Me aprofundando mais em Javascript e PHP
+- 🐱‍👤 Atualmente trabalhando full-stack
+- 📚 Me aprofundando mais em React e NodeJs 
 - 🪂 Contate-me no e-mail : kaikrochaa0@gmail.com
 
 <div>
