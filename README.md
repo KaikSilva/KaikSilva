@@ -4,11 +4,6 @@ Oii! Eu sou o Kaik Silva 😉!
 - 📚 Me aprofundando mais em React e NodeJs 
 - 🪂 Contate-me no e-mail : kaikrochaa0@gmail.com
 
-<div>
-  <a href="https://github.com/KaikSilva">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaikSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Kaik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
